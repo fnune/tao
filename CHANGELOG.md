@@ -1,5 +1,10 @@
 # Changelog
 
+## \[0.2.7]
+
+- Implement all control flow variants
+  - [16e2ac06](https://github.com/tauri-apps/tao/commit/16e2ac06c2f0c180a17fb8021005dec51a57af49) Add change file on 2021-05-19
+
 ## \[0.2.6]
 
 - Add `is_decorated` getter on `Window`
